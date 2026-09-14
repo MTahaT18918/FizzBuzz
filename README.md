@@ -13,7 +13,7 @@ Click this button to create a fork of this repository, which will be your own co
 In the new page that comes up, confirm that you want to create the fork and your own FizzBuzz repository will be created
 on GitHub!
 
-2. Now that you have your own fork of this repository, close this page, go to your fork, and continue with the next instructions.
+2. Now that you have your own fork of thBefore we begin, note that IntelliJ is made by the same company as PyCharm, so it should feel quite familiar to you. The main difference being that we'll be working with Java code instead of Python code.is repository, close this page, go to your fork, and continue with the next instructions.
 
 3. The next step is to get a local copy of your FizzBuzz repository on your own computer.
 This is called **cloning** the repository.
@@ -56,7 +56,7 @@ which enables basic typesetting when viewed while still being a plaintext format
 editing and version control.
 
 Below is a blank checkbox:
-- [ ] Put an X in the [ ] (with no spaces) to mark this as done!
+- [X] Put an X in the [ ] (with no spaces) to mark this as done!
 
 You can edit this file directly to check off these checkboxes throughout the lab to mark things as done.
 Do so now for the checkbox above.
